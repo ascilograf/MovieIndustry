@@ -1,0 +1,51 @@
+h1. Griddy
+
+A Grid library for the Unity game engine.
+
+Supports Square and Hex grids for games of all genres.
+
+Source: "GitHub":https://github.com/nickbreslin/Griddy
+
+h3. Nick Breslin, Etiquette Studio
+
+E-Mail: "nickbreslin@gmail.com":mailto:nickbreslin@gmail.com
+Twitter: "@EtiquetteStudio":http://twitter.com/#!/EtiquetteStudio
+Web Site: "etiquettestudio.com":http://www.etiquettestudio.com
+
+h2. License
+
+* Source under "MIT license":http://copyfree.org/licenses/mit/license.txt.
+* I would very much appreciate to know if Griddy or Examples are used in released titles.
+
+h2. Contributions
+
+* MonoSingleton.cs from "Berenger":http://unifycommunity.com/wiki/index.php?title=Singleton
+* SilkScreen Font from "Jason Kottke":http://kottke.org/plus/type/silkscreen/
+* GUI influenced by "AngryAnt":http://eej.dk/angryant/general/tipsandtricks/building-a-menu-of-delegates-and-enums/
+
+h2. Releases & Changelog
+
+h3. 2012.05.26 - v0.03 - Selection Algorithms
+
+* Line, Arc/Cone/Triangle, Perimeter Range Selection.
+* Revisiting Format and Griddy core methods.
+
+h3. 2012.05.18 - v0.02 - Tic-Tac-Toe Example
+
+* Demonstration using 3x3 Square Grid
+* Full Game & MVC Implementation
+
+h3. 2012.05.05 - v0.01 - MVC Implementation
+
+* Implementation of a basic MVC pattern.
+* This version is comprised of completely different assets from previous versions.
+
+h3. 2010 - v0.1 - Archive Release
+
+* Original 2010 release, now stored in the Archive branch. Compatibility with Unity 3.x is unknown.
+* This version will not be supported by future versions.
+
+h2. Projects Using Griddy
+
+h3. Original (2010) Griddy
+* "Bomber Bunnies":http://bomberbunnies.com

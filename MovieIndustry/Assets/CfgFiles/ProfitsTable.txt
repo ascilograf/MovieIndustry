@@ -1,0 +1,5 @@
+ID;profit coins;profit premium;exp to studio;profit staff
+0;10000;50;10;
+1;15000;5;40;
+2;20000;5;50;
+3;;10;100;

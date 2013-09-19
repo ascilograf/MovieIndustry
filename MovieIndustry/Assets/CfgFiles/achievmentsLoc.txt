@@ -1,0 +1,16 @@
+ID;caption;description;english ;russian;french;;comment
+1;a_mainofficeupgrade_1;;Upgrade main office to level 2;Улучшите главный офис до 2 уровня;;;
+2;a_mainofficeupgrade_2;;Upgrade main office to level 3;Улучшите главный офис до 3 уровня;;;
+3;a_mainofficeupgrade_3;;Upgrade main office to level 5;Улучшите главный офис до 5 уровня;;;
+4;a_build_1;;Build a hangar;Постройте ангар;;;
+5;a_build_2;;Build a trailer;Постройте трейлер;;;
+6;a_build_3;;Build a postproduction office;Постройте студию спецэффектов;;;
+7;a_moviesreleased_1;;Release 5 movies;Выпустите 5 фильмов;;;
+8;a_moviesreleased_2;;Release 10 movies;Выпустите 10 фильмов;;;
+9;a_moviesreleased_3;;Release 100 movies;Выпустите 100 фильмов;;;
+10;a_actorcomedy_1;;Reach 1 star in actor's comedy skill;Достигните 1 звезды в мастерстве комедии у актера;;;
+11;a_actorcomedy_2;;Reach 3 stars in actor's comedy skill;Достигните 3 звезд в мастерстве комедии у актера;;;
+12;a_actorcomedy_3;;Reach 5 stars in actor's comedy skill;Достигните 5 звезд в мастерстве комедии у актера;;;
+13;a_regionsunlocked_1;;Unlock 2 regions on a map;Откройте 2 региона на карте;;;
+14;a_regionsunlocked_2;;Unlock 3 regions on a map;Откройте 3 региона на карте;;;
+15;a_regionsunlocked_3;;Unlock all regions on a map;Откройте все регионы на карте;;;

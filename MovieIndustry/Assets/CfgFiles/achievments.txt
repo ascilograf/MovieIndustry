@@ -1,0 +1,16 @@
+caption;Requirement;Reward, Stars;Reward, Exp
+a_mainOfficeUpgrade;Main office upgrade = lvl 2;5;10
+;Main office upgrade = lvl 3;10;20
+;Main office upgrade = lvl 5;25;50
+a_build;Hangar = built;10;20
+;Trailer = built;15;30
+;Postproduction office = built;25;50
+a_moviesReleasedCount;5 movies released;2;5
+;10 movies released;15;30
+;100 movies released;50;100
+a_actorComedy;Actor comedy = 20;5;10
+;Actor comedy = 60;15;30
+;Actor comedy = 100;50;100
+a_regionsUnlocked;Regions unlocked = 2;10;20
+;Regions unlocked = 3;20;40
+;Regions unlocked = 5;100;200

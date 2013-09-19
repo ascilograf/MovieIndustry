@@ -1,0 +1,23 @@
+ID;caption;english ;language;;Description;
+1;menu_store_mainoffice;Main Office;;;;Главный офис название
+2;menu_store_mainoffice_d;The heart of your studio.;;;;Главный офис описание
+3;menu_store_scenariooffice;Scriptwriters Office;;;;
+4;menu_store_scenariooffice_d;The crypt of your gurus of pen and paper. # Scripwriters office is the place where # all the scenarios are born;;;;
+5;menu_store_fxoffice;Postproduction Office;;;;
+6;menu_store_fxoffice_d;Do you want your movies to be pretty? # This is the place where digital magic happens;;;;
+7;menu_store_pavilion;Pavilion;;;;
+8;menu_store_pavilion_d;You certainly require the spot where # all your future hits are born. # Movie sets are assembled here;;;;
+9;menu_store_trailer;Trailer;;;;
+10;menu_store_traler_d;Every actor needs a traler to get ready for the # next scene. And do other # stuff they're doing.;;;;
+11;menu_store_builder;Movie Build Co;;;;офис строителей
+12;menu_store_builder_d;When it comes to new buildings, upgrades, # assembling new sets these # are the guys you need # Each building comes with 2 workers.;;;;
+13;menu_store_build;Build;;;;построить за
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;

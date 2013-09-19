@@ -1,0 +1,5 @@
+Item name, rus;Item name, french;Item name, ger;Item name, eng;ExpGainBonus;MoneyGainBonus;Genre1Bonus;Genre2Bonus;Usable;Price normal;Price premium;Time, sec;3
+Золотая цепь;;;Gold Chain;10;5;0;0;0,1,2,3,4,5,6;10000;0;86400;
+Водолазка;;;Turtleneck;5;10;0;0;0,1,2,3,4,5,6;15000;0;86400;
+Книга;;;Book;0;0;8;12;2,3,5;0;5;0;
+Пульт;;;TV Remote;0;0;12;16;2,3,5;0;10;0;

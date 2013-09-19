@@ -1,0 +1,5 @@
+ID;header;description;quest1 id;quest1;quest2 id;quest2;quest3 id;quest3;profit id;prev Quest;next quest;needs id;needs type
+0;Blockbuster;;0;releaseFilmBudget;;;;;0;;;0;building
+1;It's comedy time (1/3);;1;writeScriptGenres;;;;;1;;2;;
+2;It's comedy time (2/3);;2;shootFilmScenes;3;vfxFilmGenres;;;2;1;3;;
+3;It's comedy time (3/3);;4;releaseFilmGenres;;;;;3;2;;;

@@ -1,0 +1,35 @@
+ID;param1;param2;param3;param4
+;studio lvl;;;
+;lvl;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+building;buildings;;;
+;type;count;upgrade lvl;
+0;office;1;2;
+;;;;
+;;;;
+;;;;
+;film staff;;;
+;type;count;genres;skill lvl
+;;;;
+;;;;
+;;;;
+;map towns open;;;
+;townName;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;

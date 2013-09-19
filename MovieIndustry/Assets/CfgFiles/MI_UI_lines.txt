@@ -1,0 +1,149 @@
+ID;caption;Description;english 
+1;;;
+2;;;
+3;;Меню зданий;
+4;menu_store_mainoffice;Главный офис название;Main Office
+5;menu_store_mainoffice_d;Главный офис описание;The heart of your studio.
+6;menu_store_scenariooffice;;Scriptwriters Office
+7;menu_store_scenariooffice_d;;The crypt of your gurus of pen #and paper. #Scripwriters office is the #place where all the scenarios #are born.
+8;menu_store_fxoffice;;Postproduction Office
+9;menu_store_fxoffice_d;;Do you want your movies to be #pretty? #This is the place where digital #magic happens.
+10;menu_store_pavilion;;Pavilion
+11;menu_store_pavilion_d;;You certainly require the spot#where all your future hits are# born. #Movie sets are assembled here.
+12;menu_store_trailer;;Trailer
+13;menu_store_traler_d;;Every actor needs a traler to #get ready for the next scene. #And do other stuff they are #doing.
+14;menu_store_builder;офис строителей;Movie Build Co
+15;menu_store_builder_d;;When it comes to new buildings,#upgrades, assembling new sets #these are the guys you need. #Each building comes with 2 #workers.
+16;menu_store_build;построить за;Build
+;;Жанры фильмов;
+;global_movie_rating;_____ _______ ______;Overall
+;global_movie_acting;_________ __________;Acting
+;global_movie_direction;_________;Direction
+;global_movie_visuals;___________;Visuals
+;global_movie_cinema;____________ ______;Camera work
+;global_movie_marketing;_________;Marketing
+17;;Жанры фильмов;
+18;global_genres_drama;;Drama
+19;global_genres_action;;Action
+20;global_genres_comedy;;Comedy
+21;global_genres_horror;;Horror
+22;global_genres_scifi;;Sci-Fi
+23;global_genres_romance;;Romance
+24;;Обозначения времени;
+25;global_time_seconds;Секунды;s
+26;global_time_hours;Часы;h
+;global_time_minuts;Минуты;m
+27;global_time_days;Дни;d
+28;;Типы персонажей;
+29;global_chartype_dir;;Director
+30;global_chartype_actor;;Actor
+31;global_chartype_script;;Scripter
+32;global_chartype_worker;;Studio worker
+33;global_chartype_vfx;;Postproduction worker
+34;global_chartype_camera;оператор;Cinematographer
+35;;Редкость декораций;
+36;global_rarity_common;;Common
+37;global_rarity_rare;;Rare
+38;global_rarity_unique;;Unique
+39;;Параметры персонажей;
+40;global_charlevel;уровень персонажа;Level
+41;global_charpoints;очки персонажа необходимые для прокачки;Points
+42;global_charexp;опыт персонажа;Exp
+43;global_charposptrod;Опыт постпродов;Visuals
+44;global_permovie;денег за фильм;movie
+45;;Меню персонажей;
+46;menu_char_hire_actor;найм режиссера;Find a new actor!
+47;menu_char_hire_d;;Find a new director!
+48;menu_char_hire_script;;Find a new scripwriter!
+49;menu_char_hire_camera;;Find a new director of # cinematography!
+50;menu_char_hire_fx;;Find a new postproduction guy!
+51;menu_char_startsearch;начать поиск;Start search
+52;menu_char_searchfinish;немедленно закончить поиск;Finish now!
+53;menu_char_resumes;результаты будут через;Results are coming in
+54;menu_char_searchdone;;Show results
+55;menu_char_hire;нанять персонажа;Hire for
+56;;Сеттинги;
+57;global_settings_adv;;Adventure
+58;global_settings_hist;;Historical
+59;global_settings_spc;;Space
+60;global_settings_war;;War
+61;global_settings_fntsy;;Fantasy
+62;global_settings_modern;;Modern
+63;;Меню сценария;
+64;menu_script_caption;Меню написания сценария (экран выбора персонажей);Pick a scriptwriter
+65;menu_script_caption_0;;Pick a scriptwriter (0/2)
+66;menu_script_caption_1;;Pick a scriptwriter (1/2)
+67;menu_script_caption_2;;Pick a scriptwriter (2/2)
+68;menu_script_btn;Кнопка в меню написания сценария (экран выбора персонажей);Write it!
+69;menu_script_genre_caption;Меню выбора жанров для сценария;Choose genre for your script
+70;menu_script_genre_caption_0;;Choose genre for your script (0/2)
+71;menu_script_genre_caption_1;;Choose genre for your script (1/2)
+72;menu_script_genre_caption_2;;Choose genre for your script (2/2)
+73;menu_script_genre_btn;Кнопка в меню выбора жанров для сценария;Choose#Scriptwriter
+74;;Меню кастинга;
+75;menu_casting_caption;Заголовок меню кастинга;Preproduction
+76;menu_casting_tooltip_script;Тултип для выбора сценария;(1/3) Select a script.
+77;menu_casting_helper;Слова помощника в первом экране;Let's start postproduction process. There are 3 simple steps: select a script, a crew and set background.
+;menu_casting_tooltip_badgenre;;This character doesn't like the genre. Don't expect the best performance!
+78;menu_casting_tooltip_crew;Тултип для выбора команды;(2/3) Pick your crew.
+79;menu_casting_tooltip_setting;Тултип для выбора декораций;(3/3) Choose set background.
+80;menu_casting_char_btn;Кнопка финального подтрвеждения;Ok
+81;menu_casting_btn;Кнопка финального подтверждения в меню кастинга;Film it!
+82;menu_casting_script_btn;Кнопка выбора другого сценария для кастинга;Pick another script
+83;;Меню выбора декораций;
+84;menu_decor_caption1;Заголовок 1 экрана меню выбора декораций;Choose setting for your scene
+85;menu_decor_caption2;Заголовок 2 экрана меню выбора декораций;Choose decorations
+86;menu_decor_btn1;Кнопка в 1 экране меню выбора декораций;Ok!
+87;menu_decor_btn2;Кнопка во 2 экране меню выбора декораций;Shoot it!
+88;menu_decor_hp;Параметр Maintenance для декораций;Maintenance
+89;menu_decor_howmuch;Кол-во декораций у игрока на данный момент;You have:
+90;menu_decor_btn3;Кнопка для открытия закрытой декорации;Open
+91;;Меню работ на этажах;
+92;menu_work_time;Название для времени;Time:
+93;menu_work_reward;Название для прибыли от работы;Reward:
+94;menu_work_dropch;Название для шансов дропа;Drop chance:
+95;menu_work_exp;Экспа!!1;XP
+96;menu_work_btn;Финальная кнопка подтверждения начала работы;Get to work
+97;menu_work_btn2;Кнопка быстрой остановки работы;Finish now!
+;;Меню работ на этажах;
+;menu_decor_collection_line1;Предложение купить предмет;You can find this item by taking#some contracts
+;menu_decor_collection_line2;;Or you can buy it right now
+;menu_decor_collection_btn;Кнопка покупки предмета;Buy
+;menu_decor_colletion_btn2;Кнопка крафта декорации;Craft
+;;Меню работ на этажах;
+;menu_postprod_caption1;Выбор фильма для постпрода;Select a movie for postproduction
+;menu_postprod_caption2;Выбор постпродов с числами;Pick a postprod. Specialist
+;menu_postprod_caption2-1-1;;Pick a postprod. specialist (1/1)
+;menu_postprod_caption2-0-2;;Pick a postprod. specialist (0/2)
+;menu_postprod_caption2-1-2;;Pick a postprod. specialist (1/2)
+;menu_postprod_caption2-2-2;;Pick a postprod. specialist (2/2)
+;menu_postprod_caption2-0-3;;Pick a postprod. specialist (0/3)
+;menu_postprod_caption2-1-3;;Pick a postprod. specialist (1/3)
+;menu_postprod_caption2-2-3;;Pick a postprod. specialist (2/3)
+;menu_postprod_caption2-3-3;;Pick a postprod. specialist (3/3)
+;menu_postprod_btn;Финальная кнопка подтверждения постпродакшена;Do it!
+;;Меню работ на этажах;
+;map_buy_city;Предложение открыть город;Do you want to open it?
+;map_buy_region;Предложение открыть регион;Are you ready to expand your#movie empire to this region?
+;map_buy_btn;Кнопка подтверждения;Yes!
+;;Меню работ на этажах;
+;info_time;Сколько осталось времени?;Time remaining:
+;info_bld_contract;Заголовок открытия контракта в инфе о строительстве/апгрейде;Contract unlock
+;;Информация на карточках пероснажей;
+;char_lvlup;Надпись на кнопке левелапа персонажа;Level up!
+;char_reset;Сброс выбора очков левелапа;Reset
+;char_train;Подтрвеждение выбора очков левелапа;Train
+;char_points;Название для кол-ва очков, доступных для левелапа;Points:
+;char_training;Название для процесса левелапа на карточке персонажа;Training:
+;;Кастинг;
+;menu_casting_helper_0;;Choose your script
+;menu_casting_helper_1;;Choose your crew
+;menu_casting_helper_2;;Choose your decoration
+;menu_casting_header;;Preproduction
+;;Плейны сценарий;
+;plane_scene_common_adv_caption;;asdsd
+;plane_scene_common_fan_caption;;fsdfdsf
+;plane_scene_common_spa_caption;;ssdfgad
+;plane_scene_common_mod_caption;;wwerw2
+;plane_scene_common_war_caption;;aasdwerwer
+;plane_scene_common_his_caption;;werwer

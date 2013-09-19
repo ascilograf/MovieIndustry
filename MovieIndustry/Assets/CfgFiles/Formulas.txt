@@ -1,0 +1,8 @@
+Menu/Placement;formula description;formula;variable name ;variable value;;;;;;
+;качество актерского мастерства;(actingInAllGenres)/ ?;actingDivisor;3;;;;;;
+ћеню найма персонала на съемки фильма (PopUpHireForFilm);качество режессуры;(directionInAllGenres)/ ?;directionDivisor;1;;;;;;
+;операторской работы;(cinematographyInAllGenres) / ?;cinematographyDivisor;3;;;;;;
+;качество сценари€;(storyInAllGenres)/ ?;storyDivisor;1;;;;;;
+;качество визуальных эффектов;(visuals) / ?;visualsDivisor;1;;;;;;
+;гонорар персонажа;staffPrice * ?;staffPriceFactor;1000;;;;;;
+;сбора за первый уикЁнд;budget + ((budget / ? ) * townsFactor);weekendBoxOfficeDivisor;100;;;;;;
